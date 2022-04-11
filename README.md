@@ -6,6 +6,6 @@ Basic Programming for Data Science and Data Visualization : วิฆเนศ �
 
 # Project
 * [Power Point](https://github.com/Wikanes-k/data_viz_2022/blob/main/Valo_%E0%B8%82%E0%B8%B2%E0%B8%942.pdf)
-* [Project]()
+* [Project กลุ่มวาโรขาด2]()
 
 # Final
